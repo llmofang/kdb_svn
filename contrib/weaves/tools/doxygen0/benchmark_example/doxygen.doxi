@@ -1,0 +1,7 @@
+@INCLUDE = ../style/doxygen.conf 
+
+INPUT                  = .. .
+FILTER_PATTERNS        = *.q=../qoxygen
+FILE_PATTERNS          = *.q *.cpp
+PROJECT_NAME           = benchmark
+

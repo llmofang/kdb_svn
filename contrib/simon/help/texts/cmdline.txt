@@ -1,0 +1,29 @@
+command line parameters
+q [f] [-b] [-c r c] [-C r c] [-g 0|1] [-l] [-L][-o N] [-p N] [-P N] [-q]
+      [-r :H:P] [-s N] [-t N] [-T N] [-u|U F] [-w N] [-W N] [-z 0|1]
+
+f load script (*.q, *.k, *.s), file or directory
+
+-b               block client write access 
+-c r c           console maxRows maxCols
+-C r c           http display maxRows maxCols 
+-e [0|1]         disable|enable error trap clients
+-g [0|1]         disable|enable immediate garbage collect, default 0
+-l               log updates to filesystem 
+-L               as -l, but sync logging
+-o N             offset hours (from GMT: affects .z.Z/T/P/N), default 0
+-p N             port kdbc(/jdbc/odbc) http(html xml txt csv)
+-p -N            port multithreaded kdbc
+-P N             printdigits, default 7, 0=>all
+-q               quiet, no startup banner text
+-r :H:P          replicate from :host:port 
+-s N             slaves for parallel execution
+-S N             set random seed
+-t N             timer milliseconds, default 0 (=> none)
+-T N             timeout seconds(applies to all client queries), default 0 (=> none)
+-u F             usr:pwd file, no access above start directory
+-u [0|1]         enable|disable system escapes
+-U F             as -u, but no file restrictions
+-w N             workspace MB limit (default: 2*RAM)
+-W N             week offset, default 2, 0=>saturday
+-z [0|1]         "D" uses 0:mm/dd/yyyy or 1:dd/mm/yyyy, default 0

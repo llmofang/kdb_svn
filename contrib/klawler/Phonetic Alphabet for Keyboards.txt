@@ -1,0 +1,129 @@
+Phonetic Alphabet for Keyboards
+
+~ sim
+` grave
+' tick
+! bang
+@ at
+# sharp
+$ coin
+% per
+^ top
+& and
+* star
+_ lo
+- dash
++ plus
+= eke
+( ren
+) sis
+{ cur
+} lee
+[ bra
+] ket
+| pipe
+\ stern
+/ ford
+: how
+; tail
+< less
+> great
+" quote
+, beat
+. dot
+? what
+
+Alphanumerics are pronounced as normal except
+
+w dub
+0 null
+7 set
+
+space space
+newline go
+shift+ cap
+
+
+Notes
+
+The philosophy is taken from the phonetic alphabet used by radio operators: Alpha, Bravo, Charlie...
+
+Nobody likes saying 'open parentheses question mark exclamation point close parentheses'. 
+
+The words are chosen to be easy to distinguish and easy to pronounce, especially one after the other.
+
+All the words are legitimate English. All the words are one syllable long.
+
+To appease technical users; parentheses, braces, and brackets all form compounds. 
+
+
+Extended:
+
+tab tab
+caps-lock case
+
+shift shift
+ctrl con
+alt alt
+(For combinations say 'with')
+
+enter/return go/line
+
+backspace back
+
+insert inns
+delete del
+home home
+end end
+page-up pup
+page-down pawn
+
+left-arrow left
+up-arrow up
+right-arrow right
+down-arrow down
+
+num-lock numb
+
+print-screen print
+scroll-lock scroll
+pause pause
+
+
+Function keys:
+
+F1-F12 [German] eins-zwolf, except
+F7 [German] sieb
+
+
+Foreign:
+
+£ quid
+€ you're
+¥ yen
+
+
+Proprietary:
+
+menu men
+window win
+apple fruit
+option opt
+meta opt
+stop stop
+again twice
+props props
+undo quick
+front front
+copy clone
+open bare
+paste paste
+find find
+cut cut
+volume-off mute
+volume-down soft
+volume-up loud
+help help
+sleep sleep
+
+

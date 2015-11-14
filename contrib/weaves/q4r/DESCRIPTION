@@ -1,0 +1,12 @@
+Package: q4r
+Type: Package
+Title: Access to a q/kdb+ time-series server
+Version: 0.1
+Date: 2009-02-28
+Author: Walter Eaves
+Maintainer: Walter Eaves <Walter.Eaves@bigfoot.com>
+Description: Provides access to the q/kdb+ server.
+ This uses the qserver system described at kx.com. When fetched from the SVN server at kx.com,
+ it has external SVN references to use the l64 codebase for the qserver and the l32 library.
+License: GPL version 2 or later.
+Packaged: Tue Mar 10 17:12:36 2009; q4r

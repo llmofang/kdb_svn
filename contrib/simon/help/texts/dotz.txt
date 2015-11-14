@@ -1,0 +1,42 @@
+.z locale contents 
+.z.a       ip-address 
+.z.ac      http authenticate from cookie 
+.z.b       dependencies (more information than \b)
+.z.bm      callback on bad message
+.z.c       physical core count
+.z.d       utc date
+.z.D       local date
+.z.exit    callback on exit 
+.z.f       startup file
+.z.h       hostname
+.z.i       pid
+.z.k       kdb+ releasedate 
+.z.K       kdb+ major version
+.z.l       license information (;expirydate;updatedate;;;)
+.z.n       utc timespan 
+.z.N       local timespan
+.z.o       OS 
+.z.p       utc timestamp
+.z.P       local timestamp 
+.z.pc[h]   close, h handle (already closed)
+.z.pg[x]   get
+.z.ph[x]   http get
+.z.pi[x]   input (qcon)
+.z.po[h]   open, h handle 
+.z.pp[x]   http post
+.z.ps[x]   set
+.z.pw[u;p] validate user and password
+.z.q       in quiet mode (no console)
+.z.s       self, current function definition
+.z.t       utc time
+.z.T       local time
+.z.ts[x]   timer expression (called every \t)
+.z.u       userid 
+.z.vs[v;i] value set
+.z.w       handle (0 for console, handle to remote for KIPC)
+.z.ws[x]   callback for websockets 
+.z.W       openHandles!vectorOfMessageSizes (oldest first)
+.z.x       command line parameters (argc..)
+.z.z       utc timestamp
+.z.zd      default compression for set (blockSize;algo;zipLevel)
+.z.Z       local timestamp
